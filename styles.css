@@ -295,11 +295,11 @@ body {
 }
 
 .timeline-item:nth-child(odd)::before {
-    right: -51px;
+    right: -52.7px;
 }
 
 .timeline-item:nth-child(even)::before {
-    left: -51px;
+    left: -52.7px;
 }
 
 .timeline-date {
