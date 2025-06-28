@@ -515,7 +515,7 @@ body {
     }
 
     .timeline-item::before {
-        left: -41px !important;
+        left: -42.7px !important;
         top: 30px;
         transform: none;
     }
